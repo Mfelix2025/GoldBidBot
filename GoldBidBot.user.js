@@ -1,16 +1,17 @@
 // ==UserScript==
 // @name         GoldBidBot
 // @namespace    http://tampermonkey.net/
-// @version      2025-02-24
 // @description  Auto bids on gold auctions (runs in background, mobile & desktop)
 // @author       Mateus Félix (Telegram: @Mateus_Felix)
-
-// @match       https://m.rivalregions.com/*
-// @match       http://m.rivalregions.com/*
-// @match       https://tr.rivalregions.com/*
-// @match       http://tr.rivalregions.com/*
+// @match        https://rivalregions.com/*
+// @match        http://rivalregions.com/*
+// @match        https://m.rivalregions.com/*
+// @match        http://m.rivalregions.com/*
+// @match        https://tr.rivalregions.com/*
+// @match        http://tr.rivalregions.com/*
+// @version      0.1.0
 // @run-at       document-idle
-// @downloadURL https://github.com/Mfelix2025/GoldBidBot/raw/main/GoldBidBot.user.js
+// @downloadURL  https://github.com/Mfelix2025/GoldBidBot/raw/main/GoldBidBot.user.js
 // ==/UserScript==
 
 (function() {
