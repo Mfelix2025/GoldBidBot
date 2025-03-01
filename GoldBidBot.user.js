@@ -4,8 +4,7 @@
 // @version      2025-02-24
 // @description  Auto bids on gold auctions (runs in background, mobile & desktop)
 // @author       Mateus Félix (Telegram: @Mateus_Felix)
-// @match       https://rivalregions.com/*
-// @match       http://rivalregions.com/*
+
 // @match       https://m.rivalregions.com/*
 // @match       http://m.rivalregions.com/*
 // @match       https://tr.rivalregions.com/*
