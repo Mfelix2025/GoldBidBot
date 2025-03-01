@@ -10,7 +10,8 @@
 // @match       http://m.rivalregions.com/*
 // @match       https://tr.rivalregions.com/*
 // @match       http://tr.rivalregions.com/*
-// @run-at       document-end
+// @run-at       document-idle
+// @downloadURL https://github.com/Mfelix2025/GoldBidBot/raw/main/GoldBidBot.user.js
 // ==/UserScript==
 
 (function() {
